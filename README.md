@@ -1,4 +1,14 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
+
+# Gatsby Hello World
+
+## Deployed Sites:
+- http://gigantic-party.surge.sh/
+- https://gatsbycloudstartermain.gtsb.io/
+
+Using surge.sh, and gatsby cloud. 
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
